@@ -1,4 +1,4 @@
-# Network Pruning via Performance Maximization
+#  Device-wise Federated Network Pruning
 PyTorch Implementation of [Device-wise Federated Network Pruning](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Device-Wise_Federated_Network_Pruning_CVPR_2024_paper.pdf) (CVPR 2024).
 # Requirements
 pytorch  
